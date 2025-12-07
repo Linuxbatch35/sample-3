@@ -16,5 +16,6 @@
 	</ul>
 <body bgcolor="pink">
 </body>
+<img src="img_chania.jpg" alt="Flowers in Chania">
 </body>
 </html>
