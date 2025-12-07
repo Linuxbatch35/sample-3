@@ -14,7 +14,7 @@
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service/send">http://localhost:8080/wwp-1.0.0/webapi/service/send</a> (Accessible using POST)</li>
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service/send/rowan">http://localhost:8080/wwp-1.0.0/webapi/service/rowan</a> (Accessible using POST)</li>
 	</ul>
-<body bgcolor="gold">
+<body bgcolor="00556">
 </body>
 <img src="img_chania.jpg" alt="Flowers in Chania">
 </body>
