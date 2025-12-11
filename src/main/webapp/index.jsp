@@ -1,13 +1,4 @@
-h1 {
-    left: 0;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 100%;
-}
-
+<div class="container">
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,3 +20,4 @@ h1 {
 <img src="img_chania.jpg" alt="Flowers in Chania">
 </body>
 </html>
+</div>
